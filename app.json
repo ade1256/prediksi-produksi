@@ -1,0 +1,12 @@
+{
+  "name": "tsukamoto-fuzzy",
+  "displayName": "tsukamoto-fuzzy",
+  "expo": {
+    "name": "tsukamoto-fuzzy",
+    "slug": "tsukamoto-fuzzy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
